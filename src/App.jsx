@@ -11,15 +11,15 @@ function App() {
 
   return (
     <>
-     <div className="">
-     <Header/>
+      <div className="">
+        <Header />
 
-     <Slider/>
+        <Slider />
 
-     <ProductionHouse/>
+        <ProductionHouse />
 
-     <GenreMovieList/>
-     </div>
+        <GenreMovieList />
+      </div>
     </>
   )
 }
